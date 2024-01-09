@@ -1,0 +1,5 @@
+class Test{
+    public staticvoid main(String[] args) {
+        
+    }
+}

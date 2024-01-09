@@ -1,0 +1,15 @@
+JDBC is JAVA DETABASE CONECTIVITY it is used to connect with database
+and excute the sql querys with the help of JDBC API.
+
+JDBC is a API (application programming interface) used in java programming
+to interact with databases.
+
+types of drivers FOUR:
+
+1.odbc Driver
+2.native-api Driver
+3.network protocol Driver
+4.thin Driver
+
+that is u must know the theory of JDBC API for Interview.
+ 
